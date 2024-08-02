@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
+source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [Adobe Campaign Web 用户界面教程](/help/ac-web-learn-main/overview.md)
 + 入门 {#getting-started}
    + [浏览 Campaign Web 用户界面](/help/get-started/explore-the-web-ui.md)
+   + [从Campaign Standard迁移后，开始使用Adobe Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
 + 消息和投放{#messages-and-deliveries}
    + [创建电子邮件投放](/help/deliveries/create-an-email-delivery.md)
    + [从头开始设计电子邮件内容](/help/design-the-delivery/create-email-content-from-scratch.md)
