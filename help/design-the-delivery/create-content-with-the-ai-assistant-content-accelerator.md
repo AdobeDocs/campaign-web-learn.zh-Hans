@@ -1,6 +1,6 @@
 ---
-title: 在Campaign — 内容加速器中使用AI助手创建内容
-description: 了解如何在Campaign — 内容加速器中使用AI助手生成渠道感知内容，以便实时1:1和批量营销活动引起目标受众的共鸣。
+title: 使用 Campaign - Content Accelerator 中的 AI 助手创建内容
+description: 了解如何使用 Campaign 中的 AI 助手 Content Accelerator 为实时 1:1 和批量营销活动生成能引起目标受众共鸣的渠道感知内容。
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -13,13 +13,13 @@ hide: false
 source-git-commit: f16d7d8d0db84ce411b3ff5f8922de05ade5dcab
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 在Campaign — 内容加速器中使用AI助手创建内容
+# 使用 Campaign - Content Accelerator 中的 AI 助手创建内容
 
-了解如何在Campaign — 内容加速器中使用AI助手生成渠道感知内容，以便实时1:1和批量营销活动引起目标受众的共鸣。
+了解如何使用 Campaign 中的 AI 助手 Content Accelerator 为实时 1:1 和批量营销活动生成能引起目标受众共鸣的渠道感知内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
