@@ -10,15 +10,15 @@ jira: KT-14388
 duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 source-git-commit: 2b6d610ce9388e1d074ab872b31bdf072922e861
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # 浏览 Campaign Web 用户界面
 
-了解如何访问和导航Campaign Web用户界面，以及如何自定义清单列表。
+了解如何访问和导航 Campaign Web 用户界面，以及如何自定义库列表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
