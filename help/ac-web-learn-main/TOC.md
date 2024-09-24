@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
+source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 95%
@@ -23,9 +23,9 @@ ht-degree: 95%
    + [创建电子邮件投放](/help/deliveries/create-an-email-delivery.md)
    + [从头开始设计电子邮件内容](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [通过上传 HTML 创建电子邮件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [预览并验证电子邮件投放](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [使用内容助手创建和改进电子邮件内容](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [使用 Campaign - Content Accelerator 中的 AI 助手创建内容](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [预览并验证电子邮件投放](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [创建直邮投放](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 用户档案和受众 {#profiles-and-audiences}
    + [浏览用户档案](/help/profiles-and-audiences/explore-profiles.md)
