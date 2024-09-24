@@ -8,9 +8,10 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
+hidefromtoc: false
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
-source-git-commit: eb3cd88884a6f6aab954539e24d78f5e9976500c
-workflow-type: ht
+source-git-commit: 1b71a1c67906d17b547c1d6089affafb272b9257
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
