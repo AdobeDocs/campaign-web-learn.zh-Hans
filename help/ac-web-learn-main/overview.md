@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 88%
@@ -26,6 +26,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 >
 > 这些教程不是您要查找的内容？
 > 请参阅
+> 
 > * [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign 控制台的指导
 > * [Adobe Campaign Web 文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign Web 用户界面的详细信息。
 
