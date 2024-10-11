@@ -11,9 +11,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 80%
 
 ## 其他资源
 
-* 实时Experience League：[AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放AI助手的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League LIVE: [AI Bash，在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

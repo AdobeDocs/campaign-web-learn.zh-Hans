@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 > 这些教程不是您要查找的内容？
 > 请参阅
 > 
-> * [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign 控制台的指导
+> * [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}，了解有关 Campaign 控制台的指导
 > * [Adobe Campaign Web 文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign Web 用户界面的详细信息。
 
 <div id="recs-overview-body-1"></div>
@@ -46,7 +46,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
   *了解如何在新的用户体验中规划、启动和衡量跨渠道营销活动。*
 
-* **[AI Bash — 在Adobe Experience Platform应用程序和营销活动中释放AI助手的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
 
-  *了解AI Assistant如何在Adobe Experience Cloud应用程序和Adobe Campaign中转变客户交互并提高工作效率。*
+  *探索 AI 助手如何在 Adobe Experience Cloud 应用程序和 Adobe Campaign 中改变客户互动并提高生产力。*
 

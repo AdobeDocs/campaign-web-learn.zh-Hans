@@ -11,15 +11,15 @@ jira: KT-14398
 hidefromtoc: false
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
 source-git-commit: e3b149963f2fd306669facbc6f90200113ebf169
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # 创建直邮投放
 
-直邮是一种线下渠道，允许您生成文件以向客户批量投放个性化信件，如明信片、传单或目录。 在创建直邮投放时，Adobe Campaign会自动生成一个提取文件，其中包含所有定向的用户档案和选定数据，如邮政地址和用户档案属性。
+直邮是一种线下渠道，使用它可以制作文件，以批量向客户发送个性化信件，例如明信片、传单或产品样本。在创建直邮投放时，Adobe Campaign 会自动生成一个提取文件，其中包含所有的目标轮廓和选定数据，例如邮政地址和轮廓属性。
 
 了解如何在 Adobe Campaign v8 Web 用户界面中创建直邮投放。
 
