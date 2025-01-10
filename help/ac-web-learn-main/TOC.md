@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+workflow-type: tm+mt
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -27,8 +27,9 @@ ht-degree: 100%
    + [使用内容助手创建和改进电子邮件内容](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [使用 Campaign - Content Accelerator 中的 AI 助手创建内容](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [创建直邮投放](/help/design-the-delivery/create-a-direct-mail-delivery.md)
-+ 用户档案和受众 {#profiles-and-audiences}
-   + [浏览用户档案](/help/profiles-and-audiences/explore-profiles.md)
++ 轮廓和受众 {#profiles-and-audiences}
+   + [浏览轮廓](/help/profiles-and-audiences/explore-profiles.md)
+   + [创建和管理测试轮廓](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [管理和构建受众](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [使用 Experience Platform 创建受众](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流{#workflows}
