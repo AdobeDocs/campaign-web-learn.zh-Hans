@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 165
 last-substantial-update: 2025-01-11T00:00:00Z
 jira: KT-14455
-source-git-commit: dd00efd92227d9d760f9a1f13b60bc8ae7d10fad
+source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
 
-有关详细信息，请参阅有关[如何使您的内容成为动态内容](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/gs-personalization)的产品文档。
+请参阅产品文档，了解有关[如何使您的内容成为动态内容](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/gs-personalization)的更多信息。
