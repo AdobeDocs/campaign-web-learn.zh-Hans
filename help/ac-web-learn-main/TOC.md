@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
 source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
    + [使用 Campaign - Content Accelerator 中的 AI 助手创建内容](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [创建直邮投放](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 内容管理 {#content-management}
-   + [使用动态内容增强投放](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [利用动态内容增强投放效果](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + 轮廓和受众 {#profiles-and-audiences}
    + [浏览轮廓](/help/profiles-and-audiences/explore-profiles.md)
    + [创建和管理测试轮廓](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
