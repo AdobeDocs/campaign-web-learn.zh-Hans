@@ -22,4 +22,4 @@ ht-degree: 32%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=zh-Hans)
