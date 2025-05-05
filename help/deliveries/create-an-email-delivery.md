@@ -20,6 +20,6 @@ ht-degree: 0%
 
 了解如何从头开始创建电子邮件投放、定义受众、设计内容、模拟预览并发送验证。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454015/?learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=zh-Hans)

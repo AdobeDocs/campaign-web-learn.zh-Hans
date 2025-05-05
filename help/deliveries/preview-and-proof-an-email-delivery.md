@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何预览电子邮件消息内容和个性化、向特定收件人或订阅者发送测试投放（验证），以进行测试和验证，以及检查常用桌面、移动和 Web 客户端中的电子邮件渲染。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450347/?learn=on&captions=chi_hans)

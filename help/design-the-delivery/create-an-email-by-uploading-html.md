@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何通过上传 HTML 创建电子邮件、如何使其与电子邮件设计器兼容以及如何将其转换为模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447042/?learn=on&captions=chi_hans)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何访问和导航 Campaign Web 用户界面，以及如何自定义库列表。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453432/?learn=on&captions=chi_hans)
 
 请参阅 [Adobe Campaign Web 入门](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=zh-Hans)，了解有关如何在 Campaign v8 Web 用户界面中导航的详细信息。

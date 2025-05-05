@@ -27,6 +27,6 @@ ht-degree: 0%
 >
 > 仅在 Alpha 版本中提供此功能，如有更改，恕不事先通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452086/?learn=on&captions=chi_hans)
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs)。

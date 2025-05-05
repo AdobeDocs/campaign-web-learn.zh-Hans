@@ -20,6 +20,6 @@ ht-degree: 32%
 
 了解如何构建和管理受众、如何为投放选择受众以及定义控制组。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453212/?learn=on&captions=chi_hans)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=zh-Hans)

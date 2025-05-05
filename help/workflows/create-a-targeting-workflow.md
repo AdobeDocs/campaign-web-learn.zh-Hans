@@ -20,7 +20,7 @@ ht-degree: 43%
 
 了解工作流的工作方式以及如何创建定位工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453982/?learn=on&captions=chi_hans)
 
 
 要了解有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=zh-Hans)。

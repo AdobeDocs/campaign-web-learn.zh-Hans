@@ -22,4 +22,4 @@ ht-degree: 6%
 
 了解如何在客户端控制台中创建测试配置文件，以及如何在Adobe Campaign Web UI中管理和编辑配置文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442905/?learn=on&enablevpops&captions=chi_hans)
