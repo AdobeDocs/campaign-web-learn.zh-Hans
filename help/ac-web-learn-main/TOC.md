@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
 source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,18 +24,18 @@ ht-degree: 82%
    + [从头开始设计电子邮件内容](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [通过上传 HTML 创建电子邮件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [预览并校对电子邮件投放](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [使用AI助手创建内容以生成内容](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
+   + [使用 AI 助手生成内容](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
    + [创建直邮投放](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + 内容管理  {#content-management}
    + [利用动态内容增强投放效果](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
-+ 用户档案和受众  {#profiles-and-audiences}
++ 轮廓和受众  {#profiles-and-audiences}
    + [浏览轮廓](/help/profiles-and-audiences/explore-profiles.md)
    + [创建和管理测试轮廓](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [管理和构建受众](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [使用 Experience Platform 创建受众](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流 {#workflows}
    + [创建定位工作流](/help/workflows/create-a-targeting-workflow.md)
-+ Experience League Live录制 {#exl-live-recordings}
-   + [使用新的Adobe Campaign Web用户界面快速前进](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
-+ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
++ Experience League Live 记录 {#exl-live-recordings}
+   + [借助新的 Adobe Campaign Web 用户界面实现飞跃](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
++ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
