@@ -37,5 +37,5 @@ ht-degree: 100%
    + [创建定位工作流](/help/workflows/create-a-targeting-workflow.md)
 + Experience League Live 记录 {#exl-live-recordings}
    + [借助新的 Adobe Campaign Web 用户界面实现飞跃](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
-+ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
++ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
 + [AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
