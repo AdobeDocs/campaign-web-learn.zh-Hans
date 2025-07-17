@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: ht
-source-wordcount: '157'
-ht-degree: 100%
+source-git-commit: b256cae07b17e5ca318ac2985116f63fbd6e467c
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 96%
 
 ---
 
@@ -35,7 +35,8 @@ ht-degree: 100%
    + [使用 Experience Platform 创建受众](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流 {#workflows}
    + [创建定位工作流](/help/workflows/create-a-targeting-workflow.md)
+   + [配置Java脚本代码活动](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live 记录 {#exl-live-recordings}
    + [借助新的 Adobe Campaign Web 用户界面实现飞跃](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
-+ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
++ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
