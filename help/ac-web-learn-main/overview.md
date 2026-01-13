@@ -6,18 +6,20 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
+source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
+workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
 # Adobe Campaign Web 用户界面教程
 
-Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Web 用户界面的特性和功能的视频和教程。会定期添加新视频。
+Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Web 用户界面的特性和功能的视频和教程。
 
-基于业务和数据需求的 Campaign 平台自定义以及与其他系统的连接是在 Campaign 客户端控制台中管理的。因此，对于某些设置和功能，只能从 Campaign 客户端控制台访问、创建或管理它们。请参阅 [Campaign Web 和客户端控制台指南](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=zh-Hans){target="_blank"}，概要了解将在未来提供的设置和功能。
+尝试可单击的[演示](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
+
+基于业务和数据需求的 Campaign 平台自定义以及与其他系统的连接是在 Campaign 客户端控制台中管理的。因此，对于某些设置和功能，只能从 Campaign 客户端控制台访问、创建或管理它们。请参阅[Campaign Web和Client Console指南](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=zh-Hans){target="_blank"}，了解未来将推出的设置和功能的概述。
 
 >[!INFO]
 > 
@@ -27,7 +29,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 > 这些教程不是您要查找的内容？
 > 请参阅
 > 
-> * [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign 控制台的指导
+> * [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}，了解有关 Campaign 控制台的指导
 > * [Adobe Campaign Web 文档](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=zh-Hans){target="_blank"}，了解有关 Campaign Web 用户界面的详细信息。
 
 <div id="recs-overview-body-1"></div>
