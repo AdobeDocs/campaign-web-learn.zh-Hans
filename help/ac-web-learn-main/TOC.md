@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 用户界面
 user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特性和功能。
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
-source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 96%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 96%
 + 开始使用 {#getting-started}
    + [Adobe Campaign v8 采用指南](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/acs-to-ac/home)
    + [浏览 Campaign Web 用户界面](/help/get-started/explore-the-web-ui.md)
+   + [交互式演示](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + 消息和投放 {#messages-and-deliveries}
    + [创建电子邮件投放](/help/deliveries/create-an-email-delivery.md)
    + [从头开始设计电子邮件内容](/help/design-the-delivery/create-email-content-from-scratch.md)
@@ -38,5 +39,5 @@ ht-degree: 96%
    + [配置Java脚本代码活动](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live 记录 {#exl-live-recordings}
    + [借助新的 Adobe Campaign Web 用户界面实现飞跃](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
-+ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
++ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 + [AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
