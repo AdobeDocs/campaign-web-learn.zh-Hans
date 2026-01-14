@@ -20,7 +20,7 @@ ht-degree: 100%
 
 了解如何在电子邮件设计器中导航。了解如何从头开始构建和设计电子邮件，如何个性化和测试电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453575/?captions=chi_hans&learn=on)
 
 >[!NOTE]
 >

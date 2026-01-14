@@ -23,6 +23,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Campaign v8 Web 用户界面中创建直邮投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451793/?captions=chi_hans&learn=on)
 
 请参阅 [Campaign Web 用户界面产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail)，以了解更多信息。
