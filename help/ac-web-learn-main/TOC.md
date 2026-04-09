@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign Web 用户界面的特
 breadcrumb-title: Web 用户界面 - 教程
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 95%
 # Adobe Campaign Web 用户界面教程 {#tutorials}
 
 + [Adobe Campaign Web 用户界面教程](/help/ac-web-learn-main/overview.md)
-+ 开始使用 {#getting-started}
++ 快速入门 {#getting-started}
    + [交互式演示](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Adobe Campaign v8 采用指南](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/acs-to-ac/home)
    + [浏览 Campaign Web 用户界面](/help/get-started/explore-the-web-ui.md)
@@ -26,18 +26,18 @@ ht-degree: 95%
    + [通过上传 HTML 创建电子邮件](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [预览并校对电子邮件投放](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [创建直邮投放](/help/design-the-delivery/create-a-direct-mail-delivery.md)
-+ 内容管理  {#content-management}
++ 内容管理 {#content-management}
    + [利用动态内容增强投放效果](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
    + [使用 AI 助手生成内容](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
-+ 轮廓和受众  {#profiles-and-audiences}
++ 用户档案和受众 {#profiles-and-audiences}
    + [浏览轮廓](/help/profiles-and-audiences/explore-profiles.md)
    + [创建和管理测试轮廓](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [管理和构建受众](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [使用 Experience Platform 创建受众](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 工作流 {#workflows}
    + [创建定位工作流](/help/workflows/create-a-targeting-workflow.md)
-   + [配置Java脚本代码活动](/help/workflows/configure-java-script-code-activity.md)
+   + [配置 Java 脚本代码活动](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live 记录 {#exl-live-recordings}
-   + [借助新的 Adobe Campaign Web 用户界面实现飞跃](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
-+ [Campaign 客户端控制台教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
-+ [AI Bash - 在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [借助全新的 Adobe Campaign Web 用户界面实现飞跃式发展](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=zh-Hans){target="_blank"}
++ [Campaign Client Console 教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}
++ [AI Bash：在 Adobe Experience Platform 应用程序和 Campaign 中释放 AI 助手的强大功能](https://experienceleague.adobe.com/zh-hans/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
