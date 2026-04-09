@@ -22,6 +22,6 @@ ht-degree: 100%
 
 本教程涵盖了简单和高级两种脚本模式。详细讲解了执行设置和错误处理。您将看到一些实际案例，例如定位 VIP 轮廓、转换数据以及触发条件操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464929/?captions=chi_hans&learn=on&enablevpops)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/wf/design-workflows/javascript-code)。

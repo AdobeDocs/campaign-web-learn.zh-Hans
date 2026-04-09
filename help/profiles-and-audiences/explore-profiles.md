@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何使用 Campaign Web 用户界面访问、管理和浏览轮廓。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448374/?captions=chi_hans&learn=on)
 
 有关此功能的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=zh-Hans)
