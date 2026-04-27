@@ -11,8 +11,8 @@ last-substantial-update: 2025-06-09T00:00:00Z
 hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: 134c79c023dc85fca65ba92bad669bc49322fe1f
-workflow-type: ht
+source-git-commit: f386fd9b65ea1f2db4817a1a8519d3d24633bbb9
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解如何使用 Adobe 的 AI 助手内容加速器快速生成并自定义营销电子邮件内容，包括主题行、正文文本和图像，同时集成经品牌认可的资产，以确保一致性与合规性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463774/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## 其他资源
 
