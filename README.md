@@ -1,27 +1,27 @@
 ---
 source-git-commit: 13f46ed7bfa40b6f71ec4c422af83929bc353e37
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 36%
+source-wordcount: '521'
+ht-degree: 40%
 
 ---
-# Contribute 文章
+# 投稿文章
 
-我们鼓励我们社区以及文档团队外部的 Adobe 员工踊跃参与。
+我们欢迎社区成员以及文档团队以外的 Adobe 员工踊跃投稿。
 
-## Adobe 开放源代码行为准则
+## Adobe 开源行为准则
 
-本项目已采用 [Adobe 开源行为准则](code-of-conduct.md)或 [.NET Foundation 行为准则](https://dotnetfoundation.org/code-of-conduct)。有关更多信息，请参阅[贡献](contributing.md)文章。
+该项目采用了 [Adobe 开源行为准则](code-of-conduct.md)或 [.NET Foundation 行为准则](https://dotnetfoundation.org/code-of-conduct)。 有关详细信息，请参阅[投稿](contributing.md)一文。
 
 ## 如何向Adobe内容投稿
 
 **如果您不是Adobe员工**，则可以提交外部社区贡献。 社区贡献内容会导入到我们的内部系统中，并在公共存储库中进行编辑和合并。 然后，公共存储库将与最新更改同步并合并到专用存储库中。
 
-**如果您是Adobe员工**，则可以直接向专用[AdobeGitHub存储库](https://git.corp.adobe.com/AdobeDocs/)投稿。 有关详细信息，请参阅适用于Adobe员工的Adobe Experience League Authoring Guide 。
+**如果您是Adobe员工**，则可以直接向私有[Adobe GitHub存储库](https://git.corp.adobe.com/AdobeDocs/)投稿。 有关详细信息，请参阅适用于Adobe员工的Adobe Experience League创作指南。
 
 ## 外部参与者
 
-### 较小改动
+### 次要更改
 
 如果您要投稿小幅度更新：
 
@@ -29,21 +29,21 @@ ht-degree: 36%
 1. 在“此内容是否有帮助？”中 浏览器窗口底部显示的横幅单击&#x200B;**详细的反馈选项**。
 1. 单击&#x200B;**建议编辑**，并在GitHub UI中提交包含所做更改的拉取请求(PR)。
 
-   有关详细信息，请参阅常规 [Adobe 文档参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+   有关详细信息，请参阅通用的 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
-您为此存储库中的文档和代码示例提交的较小更正或说明应遵守 Adobe 使用条款。
+您为此存储库中的文档和代码示例提交的小幅度更正或说明受 Adobe 使用条款的约束。
 
 ### 社区中的重大更改或新主题
 
-如果您是Adobe社区的一员，并且希望创建新主题或提交重大更改，请使用适用的Git存储库中的&#x200B;**问题**&#x200B;选项卡提交问题以开始与文档团队的对话。 在就计划达成一致后，您将与Adobe编写器一起发布修订。
+如果您是Adobe社区的一员，并且希望创建新主题或提交重大更改，请使用适用的Git存储库中的&#x200B;**问题**&#x200B;选项卡提交问题以开始与文档团队的对话。 在就计划达成一致后，您将与Adobe作者一起发布修订。
 
 **注意：**&#x200B;如果您提交了对文档和代码示例进行重大更改的拉取请求，您将在拉取请求中看到一条消息，要求您提交在线贡献许可协议(CLA)。 我们需要您填写在线表单，然后才能审阅您的拉取请求。
 
 ### 工具
 
-社区参与者可以使用 GitHub UI 进行基本编辑，或者将存储库分类，做出重大贡献。
+社区投稿者可以使用 GitHub UI 进行基本编辑，也可创建存储库分支以进行重大更改。
 
-有关详细信息，请参阅 [Adobe 文档贡献者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+有关详细信息，请参阅 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
 ## 内部参与者
 
@@ -53,12 +53,12 @@ ht-degree: 36%
 
 此存储库中的所有文章都使用GitHub风格的Markdown。 如果您不熟悉Markdown，请参阅：
 
-* [标记基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [可打印的标记清单](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Markdown 基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [可打印的 Markdown 速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## 标签
 
-在公共存储库中，自动标签被分配为提取请求，以帮助我们管理提取请求工作流，并帮助您了解提取请求的进展情况：
+在公共存储库中，系统将为拉取请求分配自动标签，以帮助我们管理拉取请求工作流，并帮助您了解拉取请求的进展情况：
 
-* **发送给作者的更改**：已通知作者有待处理的提取请求。
-* **合并准备就绪**：准备由我们的提取请求审阅团队进行审阅。
+* **发送给作者的更改**：已通知创作者拉取请求处于待处理状态。
+* **准备合并**：准备由我们的拉取请求审核工作组进行审核。
