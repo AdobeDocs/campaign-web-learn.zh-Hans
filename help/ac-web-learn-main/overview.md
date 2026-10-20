@@ -54,7 +54,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，支持可视化的�
 
 >[!INFO]
 > 
-> 您是否有疑问？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对 Adobe 团队的学习内容有任何反馈意见？ 在 **[Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**&#x200B;中加入对话！
+> 您是否有疑问？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对 Adobe 团队的学习内容有任何反馈意见？ 在 **[Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com?lang=zh_cn:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**&#x200B;中加入对话！
 >
 >
 > 这些教程不是您要查找的内容？
