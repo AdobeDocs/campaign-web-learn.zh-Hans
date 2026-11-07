@@ -38,6 +38,6 @@ ht-degree: 100%
 
 了解如何通过使用表达式编辑器来个性化您的消息或添加条件内容，从而使消息内容动态化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505245/?captions=chi_hans&learn=on&enablevpops)
 
 有关[如何使您的内容动态化](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/content/dynamic-content/gs-personalization)的更多信息，请参阅产品文档。
